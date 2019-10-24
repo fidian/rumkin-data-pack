@@ -1,5 +1,5 @@
-fidian's Data Pack
-==================
+Rumkin Data Pack
+================
 
 This is a data pack for Minecraft. To install it, download [this zip file](https://github.com/fidian/rumkin-data-pack/archive/master.zip). Do not extract the zip file. Open up your Minecraft world folder and place the zip file inside the `datapacks` folder.
 
