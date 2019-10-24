@@ -1,5 +1,5 @@
 fidian's Data Pack
-------------------
+==================
 
 Changes:
 
@@ -19,6 +19,13 @@ Recipes:
 * You can smelt or use a blast furnace to get an iron ingot from a heavy weighted pressure plate, iron door, iron horse armor, and an iron trapdoor.
 * You can smelt or use a blast furnace to get an iron nugget from a bucket, iron bars, shears, and a tripwire hook.
 
+
+Changelog
+---------
+
+1.0 - 2019-10-24
+
+* Initial release
 
 Sources
 -------
