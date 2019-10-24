@@ -26,7 +26,7 @@ scoreboard objectives add fidian_tool_dura dummy
 
 # AFK
 team add fidian_afk "AFK Players"
-team modify fidian_afk color gray
+team modify fidian_afk color dark_gray
 scoreboard objectives add fidian_afk_check dummy
 
 # Show player health in player list
