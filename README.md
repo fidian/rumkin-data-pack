@@ -12,7 +12,7 @@ In-Game Changes
 * When anyone is sleeping, the weather will change to clear for a random time, roughly from 1 to 7 days of clear skies.
 * Tool durability is shown in the action bar.
 * Players AFK for 3+ minutes show up as gray in the list of players.
-* Show player health in the list of players.
+* Show player health in the list of players. This may not show up right away, but will kick in as soon as each player gets hurt or heals.
 
 Optimizations:
 
