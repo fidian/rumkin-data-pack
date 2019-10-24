@@ -1,0 +1,15 @@
+{
+  "pack": {
+	"description": [
+	  {
+	    "text": "fidian's Data Pack v1.0",
+	    "color": "gold"
+	  },
+	  {
+	    "text": "\nhttps://github.com/fidian/data-pack",
+	    "color": "purple"
+	  }
+	],
+	"pack_format": 3
+  }
+}

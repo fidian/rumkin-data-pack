@@ -1,0 +1,12 @@
+scoreboard objectives remove fidian_tick
+
+scoreboard objectives remove fidian_death
+scoreboard objectives remove fidian_deathX
+scoreboard objectives remove fidian_deathY
+scoreboard objectives remove fidian_deathZ
+
+scoreboard objectives remove fidian_sleeping
+
+scoreboard objectives remove fidian_tool_dmg
+scoreboard objectives remove fidian_tool_max
+scoreboard objectives remove fidian_tool_dura
