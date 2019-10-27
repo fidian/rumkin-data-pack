@@ -71,14 +71,14 @@ Further Optimizations
 Changelog
 ---------
 
-1.1 - 2019-10-27
+1.1.0 - 2019-10-27
 
 * Added AFK detection.
 * Added health in player list.
 * Added armor stand statues.
 * Added shortcut recipes.
 
-1.0 - 2019-10-24
+1.0.0 - 2019-10-24
 
 * Initial release.
 
