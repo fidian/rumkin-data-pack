@@ -21,13 +21,6 @@ In-Game Changes
 * Included the Armour Stand Statues datapack. See the special section below.
 
 
-Optimizations
--------------
-
-* Most things are updated only once per second instead of happening with every tick.
-* The code was rewritten to be as minimal as possible.
-
-
 Recipes
 -------
 
@@ -45,6 +38,18 @@ Recipes
 ![](images/iron-nugget-from-shears.png)
 ![](images/iron-nugget-from-tripwire-hook.png)
 
+* Shortcut recipes are added, which use the same amount of materials but save you a crafting step. When logs are used, any type of log may be used in the recipe.
+
+![](images/chest-shortcut.png)
+![](images/dispenser-shortcut.png)
+![](images/hopper-shortcut.png)
+![](images/minecart-with-chest-shortcut.png)
+![](images/minecart-with-furnace-shortcut.png)
+![](images/minecart-with-hopper-shortcut.png)
+![](images/minecart-with-tnt-shortcut.png)
+![](images/repeater-shortcut.png)
+![](images/stick-shortcut.png)
+
 
 Armour Stand Statues
 --------------------
@@ -56,12 +61,20 @@ Each player must have the system enabled for them individually. Simply getting t
 Use the book within three blocks of an armor stand. It has clickable links to allow armor stands to be posed, show/hide arms, and many other settings. The last page has moderator-only commands and requires the player to be in creative mode.
 
 
+Further Optimizations
+---------------------
+
+* Most things are updated only once per second instead of happening with every tick.
+* The code was rewritten to be as minimal as possible.
+
+
 Changelog
 ---------
 
-1.1 - 2019-10-24
+1.1 - 2019-10-27
 
 * Added AFK detection.
+* Added health in player list.
 * Added armor stand statues.
 * Added shortcut recipes.
 
@@ -73,13 +86,14 @@ Changelog
 Sources and Original Ideas
 --------------------------
 
-Please note that most of these were analyzed and recoded instead of copied. Some of these data packs are listed because they provided the idea and I wrote my own implementation.
+Please note that most of these were analyzed and recoded instead of copied. Some of these data packs are listed because they provided the idea and I wrote my own implementation. Others, especially the ones that dealt exclusively with recipes, were mostly copied verbatim with minor adjustments.
 
 * [AFK Display](https://vanillatweaks.net/)
 * [Anti-Enderman Grief by Awhikax](https://www.planetminecraft.com/mod/awhipacks-anti-enderman-grief/)
 * [Armour Stand Statues by Phssthpok](https://www.planetminecraft.com/mod/armourstatuesv2-1-datapack/)
-* [Common Iron Recycling by LemilasTheElf](https://www.planetminecraft.com/mod/common-iron-item-recycling/) - Mostly copied this one because of the excellent work.
+* [Common Iron Recycling by LemilasTheElf](https://www.planetminecraft.com/mod/common-iron-item-recycling/)
 * [Death Coordinates by fancytweaks](http://www.9minecraft.net/death-coordinates-data-pack/)
 * [Multiplayer Sleep by TheDiamondPlayables](https://www.planetminecraft.com/mod/multiplayer-sleep-datapack-sleeping-in-multiplayer/)
 * [Show Tool Durability by pixel glasses](https://www.planetminecraft.com/mod/show-tool-durability/) - Copied in the durability table.
+* [Vanilla Plus by Ligands](https://www.reddit.com/r/Minecraft/comments/91s3uc/a_handful_of_vanilla_custom_recipes_for_113_data/)
 * [Wiki Datapack by PigletTubeYT](https://www.planetminecraft.com/mod/wiki-datapack/)

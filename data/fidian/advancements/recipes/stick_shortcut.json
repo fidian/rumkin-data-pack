@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": ["minecraft:stick_shortcut"]
+    },
+    "criteria": {
+        "has_items": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "fidian:log",
+                        "count": {
+                            "min": 2
+                        }
+                    }
+                ]
+            }
+        },
+        "has_the_vanilla_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:stick"
+            }
+        },
+        "has_the_shortcut_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:stick_shortcut"
+            }
+        }
+    },
+    "requirements": [
+        ["has_items", "has_the_vanilla_recipe", "has_the_shortcut_recipe"]
+    ]
+}
