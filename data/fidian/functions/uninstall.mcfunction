@@ -27,6 +27,10 @@ scoreboard objectives remove fidian_afk_check
 # Show player health in player list
 scoreboard objectives remove fidian_health
 
+# Posable armor stands
+scoreboard objectives remove fidian_as
+scoreboard objectives remove fidian_as_pose
+
 #
 # DEPRECATED
 #

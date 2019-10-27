@@ -33,4 +33,8 @@ scoreboard objectives add fidian_afk_check dummy
 scoreboard objectives add fidian_health health
 scoreboard objectives setdisplay list fidian_health
 
+# Posable armor stands
+scoreboard objectives add fidian_as trigger
+scoreboard objectives add fidian_as_pose dummy
+
 tellraw @a "rumkin datapack loaded"

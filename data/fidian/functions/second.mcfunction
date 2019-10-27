@@ -19,3 +19,6 @@ execute as @a[advancements={fidian:sleeping=true},limit=1] run time add 900
 execute as @a run function fidian:afk_increment
 execute as @a[scores={fidian_afk_check=180..},team=!fidian_afk] run team join fidian_afk @s
 execute as @a[scores={fidian_afk_check=0..179}] run team leave @s
+
+# Automatically enable triggers
+scoreboard players enable @a fidian_as
