@@ -71,6 +71,10 @@ Further Optimizations
 Changelog
 ---------
 
+1.1.1 - 2019-10-27
+
+* Fixed armor stand book, page 1. Words now fit better on lines.
+
 1.1.0 - 2019-10-27
 
 * Added AFK detection.
